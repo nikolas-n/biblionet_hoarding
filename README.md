@@ -1,5 +1,5 @@
 # Biblionet
-This repo explores the new API of Biblionet and how data can be hoarded from it. Soon I'll add some ways of exploring the data downloaded to do some analysis, stats and whatnot.
+This repo explores the [new API](https://biblionet.gr/webservice) of [Biblionet](https://biblionet.gr) and how data can be hoarded from it. Soon I'll add some ways of exploring the data downloaded to do some analysis, stats and whatnot.
 
 To download a book, we can issue a simple curl command as follows:
 
