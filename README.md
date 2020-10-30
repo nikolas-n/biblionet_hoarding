@@ -72,5 +72,5 @@ Thus, the file we'll end up will contain the following:
 In the torrent of this repo you can find all the book entries of biblionet that had been catalogued until 23th of October 2020.
 
 # Analysis of data
-**TBD**
+Since the files are in JSON form, we can easily setup an elasticsearch index and visualize/explore data with kibana.
 
